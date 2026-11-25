@@ -1,8 +1,8 @@
 # The 3AM Fridge Text
 
-[![Bounty](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d/badge)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d)
-[![Rank](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d/rank/fridge-text-3am)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d)
-[![Reward](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d/reward/fridge-text-3am)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d)
+[![make.fun · u-deysumbrella-the-3am-fridge-text-4c3e721d](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-the-3am-fridge-text-4c3e721d)
+[![rank](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/ujang201/fridge-text-3am/rank.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-the-3am-fridge-text-4c3e721d)
+[![reward](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/ujang201/fridge-text-3am/reward.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-the-3am-fridge-text-4c3e721d)
 
 A smart fridge texts its owner at 3am. One line, 140 characters max, and the
 fridge has had enough: the owner opened the door, stared into the light like
@@ -25,3 +25,7 @@ node main.ts
 
 Deterministic: no clock, no randomness, no network. Two runs produce
 byte-identical output.
+
+---
+
+Built for the [3AM Fridge Text bounty](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d?ref=wfjv7kgb) on make.fun.
